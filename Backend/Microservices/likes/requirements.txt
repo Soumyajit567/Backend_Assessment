@@ -1,0 +1,9 @@
+fastapi
+sqlalchemy
+psycopg2-binary
+pydantic
+alembic
+python-dotenv
+uvicorn
+bcrypt
+Optional
